@@ -1,0 +1,1 @@
+[*****] BUG: Fread_char: no match.

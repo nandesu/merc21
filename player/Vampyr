@@ -1,0 +1,484 @@
+#PLAYER
+Name         Vampyr~
+ShortDescr   ~
+LongDescr    ~
+Description  ~
+Sex          1
+Class        0
+Race         0
+Level        99
+Trust        0
+Played       42207
+Room         5001
+HpManaMove   1010 1000 1000 1000 1000 1000
+Gold         294233
+Exp          252368
+Act          13946
+AffectedBy   40
+Position     7
+Practice     4
+SavingThrow  -6
+Alignment    -626
+Hitroll      0
+Damroll      4
+Armor        -112
+Wimpy        0
+Deaf         0
+Password     VaNylUbADCEI6~
+Bamfin       ~
+Bamfout      ~
+Title         the Spell Student~
+AttrPerm     99 99 99 99 99
+AttrMod      1 1 2 0 5
+Condition    0 1 1
+Skill        100 'reserved'
+Skill        100 'acid blast'
+Skill        100 'armor'
+Skill        100 'bless'
+Skill        100 'blindness'
+Skill        100 'burning hands'
+Skill        100 'call lightning'
+Skill        100 'cause critical'
+Skill        100 'cause light'
+Skill        100 'cause serious'
+Skill        100 'change sex'
+Skill        100 'charm person'
+Skill        100 'chill touch'
+Skill        100 'colour spray'
+Skill        100 'continual light'
+Skill        100 'control weather'
+Skill        100 'create food'
+Skill        100 'create spring'
+Skill        100 'create water'
+Skill        100 'cure blindness'
+Skill        100 'cure critical'
+Skill        100 'cure light'
+Skill        100 'cure poison'
+Skill        100 'cure serious'
+Skill        100 'curse'
+Skill        100 'detect evil'
+Skill        100 'detect hidden'
+Skill        100 'detect invis'
+Skill        100 'detect magic'
+Skill        100 'detect poison'
+Skill        100 'dispel evil'
+Skill        100 'dispel magic'
+Skill        100 'earthquake'
+Skill        100 'enchant weapon'
+Skill        100 'energy drain'
+Skill        100 'faerie fire'
+Skill        100 'faerie fog'
+Skill        100 'fireball'
+Skill        100 'flamestrike'
+Skill        100 'fly'
+Skill        100 'gate'
+Skill        100 'giant strength'
+Skill        100 'harm'
+Skill        100 'heal'
+Skill        100 'identify'
+Skill        100 'infravision'
+Skill        100 'invis'
+Skill        100 'know alignment'
+Skill        100 'lightning bolt'
+Skill        100 'locate object'
+Skill        100 'magic missile'
+Skill        100 'mass invis'
+Skill        100 'pass door'
+Skill        100 'poison'
+Skill        100 'protection'
+Skill        100 'refresh'
+Skill        100 'remove curse'
+Skill        100 'sanctuary'
+Skill        100 'shield'
+Skill        100 'shocking grasp'
+Skill        100 'sleep'
+Skill        100 'stone skin'
+Skill        100 'summon'
+Skill        100 'teleport'
+Skill        100 'ventriloquate'
+Skill        100 'weaken'
+Skill        100 'word of recall'
+Skill        100 'acid breath'
+Skill        100 'fire breath'
+Skill        100 'frost breath'
+Skill        100 'gas breath'
+Skill        100 'lightning breath'
+Skill        100 'backstab'
+Skill        100 'disarm'
+Skill        100 'dodge'
+Skill        100 'enhanced damage'
+Skill        100 'hide'
+Skill        100 'kick'
+Skill        100 'parry'
+Skill        100 'peek'
+Skill        100 'pick lock'
+Skill        100 'rescue'
+Skill        100 'second attack'
+Skill        100 'sneak'
+Skill        100 'steal'
+Skill        100 'third attack'
+Skill        100 'general purpose'
+Skill        100 'high explosive'
+AffectData   'armor'   7 -20  17          0
+AffectData   'detect invis'  53   0   0          8
+AffectData   'detect hidden'  53   0   0         32
+End
+
+#OBJECT
+Nest         0
+Name         banner~
+ShortDescr   a war banner~
+Description  A war banner is on the floor here.~
+Vnum         3716
+ExtraFlags   65
+WearFlags    1
+WearLoc      0
+ItemType     1
+Weight       1
+Level        0
+Timer        0
+Cost         9
+Values       0 0 -1 0
+End
+
+#OBJECT
+Nest         0
+Name         bracer~
+ShortDescr   a sub issue bracer~
+Description  You see a sub issue bracer here.~
+Vnum         3713
+ExtraFlags   0
+WearFlags    4097
+WearLoc      15
+ItemType     9
+Weight       5
+Level        1
+Timer        0
+Cost         20
+Values       2 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         bracer~
+ShortDescr   a sub issue bracer~
+Description  You see a sub issue bracer here.~
+Vnum         3713
+ExtraFlags   0
+WearFlags    4097
+WearLoc      14
+ItemType     9
+Weight       5
+Level        1
+Timer        0
+Cost         40
+Values       2 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         diploma~
+ShortDescr   a mud school diploma~
+Description  You see a mud school diploma here.~
+Vnum         3715
+ExtraFlags   64
+WearFlags    16385
+WearLoc      17
+ItemType     8
+Weight       1
+Level        2
+Timer        0
+Cost         66
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         ring signet~
+ShortDescr   a city guard signet ring~
+Description  You see a ring with a strange symbol on the floor.~
+Vnum         3364
+ExtraFlags   64
+WearFlags    3
+WearLoc      1
+ItemType     9
+Weight       1
+Level        14
+Timer        0
+Cost         2310
+Values       6 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         boots reinforced~
+ShortDescr   a pair of reinforced boots~
+Description  A pair of reinforced boots lies here.~
+Vnum         3075
+ExtraFlags   0
+WearFlags    65
+WearLoc      8
+ItemType     9
+Weight       6
+Level        14
+Timer        0
+Cost         1960
+Values       5 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         greaves crimson steel~
+ShortDescr   a pair of crimson steel greaves~
+Description  Some greaves made of crimson steel rest here.~
+Vnum         2378
+ExtraFlags   0
+WearFlags    33
+WearLoc      7
+ItemType     9
+Weight       8
+Level        25
+Timer        0
+Cost         6600
+Values       7 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         vambraces crimson steel~
+ShortDescr   a pair of crimson steel vambraces~
+Description  Some vambraces made of crimson steel rest here.~
+Vnum         2379
+ExtraFlags   0
+WearFlags    257
+WearLoc      10
+ItemType     9
+Weight       8
+Level        26
+Timer        0
+Cost         6500
+Values       8 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         plate steel breast~
+ShortDescr   a steel breast plate~
+Description  A breast plate of thick steel rests here.~
+Vnum         2366
+ExtraFlags   0
+WearFlags    9
+WearLoc      5
+ItemType     9
+Weight       10
+Level        25
+Timer        0
+Cost         6500
+Values       8 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         sword lightning bolt~
+ShortDescr   a sparking lightning sword~
+Description  A lightning bolt fashioned into a sword spits sparks here.~
+Vnum         9207
+ExtraFlags   3
+WearFlags    8193
+WearLoc      16
+ItemType     5
+Weight       10
+Level        99
+Timer        0
+Cost         99000
+Values       0 26 81 3
+End
+
+#OBJECT
+Nest         0
+Name         shield crested~
+ShortDescr   a crested shield~
+Description  A large crested shield draws your attention.~
+Vnum         2242
+ExtraFlags   0
+WearFlags    513
+WearLoc      11
+ItemType     9
+Weight       20
+Level        25
+Timer        0
+Cost         7150
+Values       9 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         gauntlets spiked~
+ShortDescr   a pair of spiked gauntlets~
+Description  A pair of spiked gauntlets.~
+Vnum         2254
+ExtraFlags   65
+WearFlags    129
+WearLoc      9
+ItemType     9
+Weight       10
+Level        25
+Timer        0
+Cost         6240
+Values       9 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         cloak pitch black~
+ShortDescr   a pitch black cloak~
+Description  A pile of black cloth lies here.~
+Vnum         2305
+ExtraFlags   64
+WearFlags    1025
+WearLoc      12
+ItemType     15
+Weight       3
+Level        99
+Timer        0
+Cost         100000
+Values       150 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         ring universe~
+ShortDescr   the ring of the universe~
+Description  Here lies a fortune ... a small ring of power.~
+Vnum         9322
+ExtraFlags   355
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       3
+Level        99
+Timer        0
+Cost         107811
+Values       25 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         ring silver~
+ShortDescr   a glinting ring of silver~
+Description  A lovely silver ring has been left here.~
+Vnum         7190
+ExtraFlags   64
+WearFlags    3
+WearLoc      2
+ItemType     9
+Weight       1
+Level        99
+Timer        0
+Cost         98010
+Values       25 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         ring universe~
+ShortDescr   the ring of the universe~
+Description  Here lies a fortune ... a small ring of power.~
+Vnum         9322
+ExtraFlags   355
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       3
+Level        99
+Timer        0
+Cost         100000
+Values       27 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         spectacles glasses~
+ShortDescr   a pair of spectacles~
+Description  A pair of wire-rimmed spectacles has been left here.~
+Vnum         1335
+ExtraFlags   64
+WearFlags    17
+WearLoc      6
+ItemType     9
+Weight       4
+Level        99
+Timer        0
+Cost         89100
+Values       27 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         shield glowing~
+ShortDescr   a brightly glowing shield~
+Description  A shield lies here, filling the room with its aura.~
+Vnum         912
+ExtraFlags   1120
+WearFlags    513
+WearLoc      -1
+ItemType     9
+Weight       10
+Level        99
+Timer        0
+Cost         110000
+Values       25 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         skin water buffalo~
+ShortDescr   a buffalo water skin~
+Description  A bloated dead buffalo is on the floor.~
+Vnum         3138
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     17
+Weight       5
+Level        0
+Timer        0
+Cost         11
+Values       100 100 0 0
+End
+
+#OBJECT
+Nest         0
+Name         barrel beer~
+ShortDescr   a barrel of beer~
+Description  A beer barrel has been left here.~
+Vnum         3000
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     17
+Weight       65
+Level        0
+Timer        0
+Cost         10
+Values       50 24 1 0
+End
+
+#OBJECT
+Nest         0
+Name         belt life~
+ShortDescr   the belt of life~
+Description  A strange belt lies here.~
+Vnum         2332
+ExtraFlags   64
+WearFlags    2049
+WearLoc      13
+ItemType     9
+Weight       9
+Level        99
+Timer        0
+Cost         100000
+Values       27 0 0 0
+End
+
+#END
